@@ -1,4 +1,9 @@
-### Hi there 👋
+### My name is Hannah-Beth and I'm a Junior Software Developer! 👩‍💻
+I've just completed the 💜She Codes Plus💜 Australia program and I can't wait to use my new-found knowledge to continue working on interesting projects. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannahHollywood&layout=compact)](https://github.com/HannahHollywood/github-readme-stats)
+
+[![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannahHollywood&hide=stars,issues)](https://github.com/HannahHollywood/github-readme-stats)
 
 <!--
 **HannahHollywood/HannahHollywood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
