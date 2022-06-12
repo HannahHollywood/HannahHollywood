@@ -1,6 +1,8 @@
 <h1 align="center"> My name is Hannah-Beth and I'm a Junior Software Developer! 👩‍💻</h1>
 <p align="center">I've just completed the 💜She Codes Plus Australia program and I can't wait to use my new-found knowledge to continue working on some more interesting projects.</p>
 
+<p align="center">My Portfolio 👉 https://hannahhollywood.github.io/home</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,react,py,django,heroku" />
