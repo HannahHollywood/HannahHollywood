@@ -1,11 +1,11 @@
 <h1 align="center"> My name is Hannah-Beth and I'm a Junior Software Developer! 👩‍💻</h1>
 <p align="center">In June of 2021 I completed the 💜She Codes Plus Australia program and started in my first 🥞Full Stack Developer role at BHP in May of 2023!</p>
 
-<p align="center">My (soon to be upgraded) Portfolio 👉 https://hannahhollywood.github.io/</p>
+<p align="center">My basic HTML/CSS (soon to be upgraded) Portfolio 👉 https://hannahhollywood.github.io/</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,mui,py,django,flask,vscode,pycharm,github,gitlab,aws,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,mui,py,django,flask,cs,dotnet,unity,aws,postgres" />
   </a>
 </p>
 
