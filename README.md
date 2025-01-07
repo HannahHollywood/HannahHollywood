@@ -1,5 +1,5 @@
 <h1 align="center"> My name is Hannah-Beth and I'm a Junior Software Developer! 👩‍💻</h1>
-<p align="center">In June of 2021 I completed the 💜She Codes Plus Australia program and started in my first 🥞Full Stack Developer role at BHP in May of 2023!</p>
+<p align="center">In June of 2022 I completed the 💜She Codes Plus Australia program and started in my first 🥞Full Stack Developer role at BHP in May of 2023!</p>
 
 <p align="center">My basic HTML/CSS (soon to be upgraded) Portfolio 👉 https://hannahhollywood.github.io/</p>
 
